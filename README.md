@@ -71,15 +71,6 @@ Key analyses performed:
 * TV-MA and TV-14 are among the most common ratings.
 * Netflix content growth peaked around 2019–2020.
 
-## Project Structure
-
-Netflix-Content-Analysis/
-│
-├── Dataset/
-├── SQL Queries/
-├── Power BI Dashboard.pbix
-├── Dashboard Screenshot.png
-└── README.md
 
 ## Skills Demonstrated
 
